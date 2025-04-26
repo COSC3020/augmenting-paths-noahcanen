@@ -32,3 +32,11 @@ accordingly.
 
 What is the worst-case big $\Theta$ complexity of your implementation? Add your
 answer, including your reasoning, to this markdown file.
+
+
+The worst-case big Θ complexity of my implementation is Θ(E+V) because this is when we searched through all possible vertexes and edges inside of the graph.
+
+
+For this assignment, I used the resources of https://github.com/COSC3020/graph-search-noahcanen
+
+"I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice."
